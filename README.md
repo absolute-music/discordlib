@@ -1,6 +1,6 @@
 # discordlib
 
-## This is the official issue github repo.
+## This is the official discordlib issue github repo.
 
 # guidelines
 
