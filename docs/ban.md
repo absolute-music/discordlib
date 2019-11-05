@@ -1,4 +1,8 @@
-# Ban
+---
+description: This function is not yet stable.
+---
+
+# ban
 
 
 

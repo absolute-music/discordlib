@@ -17,7 +17,7 @@
 * [Typings](docs/typings.md)
 * [exampleBot](docs/examplebot.md)
 * [kick](docs/kick.md)
-* [Ban](docs/ban.md)
+* [ban](docs/ban.md)
 
 ## Interacting with discord.lib.client
 
