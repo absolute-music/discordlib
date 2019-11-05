@@ -16,12 +16,14 @@
 * [sharding](docs/sharding.md)
 * [Typings](docs/typings.md)
 * [exampleBot](docs/examplebot.md)
+* [kick](docs/kick.md)
+* [Ban](docs/ban.md)
 
-## Interacting with discord.lib
+## Interacting with discord.lib.client
 
-* [client](interacting-with-discord.lib/client.md)
-* [bot activities](interacting-with-discord.lib/bot-activities.md)
-* [Do servercount in commands](interacting-with-discord.lib/do-servercount-in-commands.md)
+* [client](interacting-with-discord.lib.client/client.md)
+* [bot activities](interacting-with-discord.lib.client/bot-activities.md)
+* [Do servercount in commands](interacting-with-discord.lib.client/do-servercount-in-commands.md)
 
 ## Deprecated
 

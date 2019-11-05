@@ -4,7 +4,7 @@ description: Deprecated
 
 # userClient
 
-This feature is deprecated --&gt; [check this ](../interacting-with-discord.lib/bot-activities.md)for how to do servercount
+This feature is deprecated --&gt; [check this ](../interacting-with-discord.lib.client/bot-activities.md)for how to do servercount
 
 ### Usage
 
