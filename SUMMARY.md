@@ -1,7 +1,7 @@
 # Table of contents
 
 * [discord.lib Official Documentation](README.md)
-* [Change Log](change-log.md)
+* [Change Logs](change-log.md)
 * [Credits](credits.md)
 
 ## Docs
