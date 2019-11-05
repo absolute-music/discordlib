@@ -22,3 +22,7 @@ This package will not work on repl.it or glitch.com
 
 official documentation could be found [here](https://absolute-develop.gitbook.io/discord-lib)
 
+### Github edit
+
+We trust our user to do edit to this document. We will take it away if people are abusing it.
+
