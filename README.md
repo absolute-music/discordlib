@@ -1,13 +1,24 @@
-# discordlib
+# discord.lib Official Documentation
 
-## This is the official discordlib issue github repo.
+## discord.lib
 
-# guidelines
+discord.lib is a library based on discord.js made by Absolute-Development.
 
-Use this as a issue repo. We have a chat issue as chat. Use that as the chat issue. Otherwise, create a issue for questions, support, or feature suggestion.
+{% hint style="warning" %}
+All options has it's specific place. any incorrect placements will crush the bot.
+{% endhint %}
 
-# Apply for staff
-You could apply for staff using [this google form](https://forms.gle/JQf9nGsT2SyYTrG7A)
+{% hint style="info" %}
+This package will not work on repl.it or glitch.com
+{% endhint %}
 
-# Need Support?
-[Join the discord server](https://discord.gg/tjVKTD8)
+## installation
+
+`npm i discord.lib`
+
+`npm i discord.lib.client`
+
+## official documentation
+
+official documentation could be found [here](https://absolute-develop.gitbook.io/discord-lib)
+
