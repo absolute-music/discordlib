@@ -1,10 +1,4 @@
----
-description: This function is not yet stable.
----
-
 # ban
-
-
 
 This is the function that will ban a member.
 

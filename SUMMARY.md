@@ -1,6 +1,8 @@
 # Table of contents
 
 * [discord.lib Official Documentation](README.md)
+* [Change Log](change-log.md)
+* [Credits](credits.md)
 
 ## Docs
 
@@ -23,9 +25,11 @@
 * [client](interacting-with-discord.lib.client/client.md)
 * [bot activities](interacting-with-discord.lib.client/bot-activities.md)
 * [Do servercount in commands](interacting-with-discord.lib.client/do-servercount-in-commands.md)
+* [Discord](interacting-with-discord.lib.client/discord.md)
 
 ## Deprecated
 
 * [userClient](deprecated/userclient.md)
 * [Webhook](deprecated/webhook.md)
+* [embed](deprecated/embed.md)
 
