@@ -1,10 +1,10 @@
 ---
-description: This function is not yet stable.
+description: >-
+  This function is not yet stable. We are still fixing the issue that it did not
+  ban member. We will provide some updates when it is resolved
 ---
 
 # ban
-
-
 
 This is the function that will ban a member.
 
