@@ -12,10 +12,6 @@ All options has it's specific place. any incorrect placements will crush the bot
 This package will not work on repl.it or glitch.com
 {% endhint %}
 
-{% hint style="info" %}
-All the releases on this site is the release for discord.lib
-{% endhint %}
-
 ## installation
 
 `npm i discord.lib`
